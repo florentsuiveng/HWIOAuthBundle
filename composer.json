@@ -171,12 +171,12 @@
         }
     },
 
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
 
     "extra": {
         "branch-alias": {
-            "dev-1.4": "1.4-dev"
+            "1.4.6": "1.4.6"
         }
     }
 }
