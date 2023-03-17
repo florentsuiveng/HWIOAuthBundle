@@ -136,7 +136,6 @@
         "symfony/doctrine-bridge":      "^6.0",
         "symfony/error-handler":        "^6.0",
         "symfony/http-foundation":      "^6.0",
-        "symfony/http-kernel":          "^6.0",
         "symfony/password-hasher":      "^6.0",
         "symfony/property-info":        "^6.0",
         "symfony/security-core":        "^6.0",
@@ -171,12 +170,12 @@
         }
     },
 
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
 
     "extra": {
         "branch-alias": {
-            "1.4.6": "1.4.6"
+            "dev-1.4": "1.4-dev"
         }
     }
 }
